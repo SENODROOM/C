@@ -1,0 +1,48 @@
+# Compiled binaries
+*.o
+*.a
+*.out
+*.exe
+*.dll
+*.so
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pdb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+*.egg-info/
+__pycache__/
+
+# Temporary files
+.tmp
+*.bak
+*.log
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Node modules (for website)
+node_modules/
+.next/
+
+# Environment files
+.env
+.env.local
+
+# Test coverage
+coverage/
+.nyc_output/
